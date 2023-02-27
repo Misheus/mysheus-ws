@@ -1,0 +1,1 @@
+This is my library for my shit. You don't need it. This repo should be private, I just don't know how to install npm packages from private repos with ssh keys as authentication method.
